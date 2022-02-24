@@ -1,9 +1,18 @@
-### Hi there 👋
+<a href="https://velog.io/@choidy180"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/choidy180@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+<a href="https://www.instagram.com/min_tt00ng"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-<!--
-**choidy180/choidy180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choidy180)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+# 🌈 React coin tracking application
+암호화폐의 시세와 그래프를 확인할 수 있는 리액트 + 타입스크립트 프로젝트 🖥
+
+2021년 11월에 업데이트 된 React v6버전에 맞춰서 개발 ✨
+<br/>추가적으로 React Hook까지 최근 버전 반영하여 기능 구현! 🎨
+
+## 👊 Skills
+### Platforms & Languages
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/> <img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
