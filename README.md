@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/min_tt00ng"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 👋 Hi there! I'm web developer using React and Node.js 🚀
-I comply with web standards, think about user convenience, and pursue reasonable and efficient development. 😀😁😂
+<br/>I comply with web standards, think about user convenience, and pursue reasonable and efficient development. 😀😁😂
 
 ## 👊 Skills
 ### Platforms & Languages
