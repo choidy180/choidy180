@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/choidy180@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 <a href="https://www.instagram.com/min_tt00ng"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&width=100%&height=200&section=header&text=MinSeok Kim, Web Developep&fontAlignY=30&fontSize=40&animation=fadeIn&type=waving"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&width=100%&height=200&section=header&text=MinSeok Kim, Web Developep&fontAlignY=30&fontSize=40&type=slice&animation=fadeIn"/>
 
 👋 Hi there! I'm web developer using React and Node.js 🚀
 <br/>I comply with web standards, think about user convenience, and pursue reasonable and efficient development. 😀😁😂
