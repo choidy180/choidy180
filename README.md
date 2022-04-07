@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/min_tt00ng"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&width=100%&height=200&section=header&text=MinSeok Kim, Web Developer &fontAlignY=55&fontSize=40&animation=fadeIn&fontColor=141414"/>
 
-👋 Hi there!! I'm web developer using React and Node.js !! 🚀
+👋 Hi there!!! I'm web developer using React and Node.js !! 🚀
 <br/>I comply with web standards, think about user convenience, and pursue reasonable and efficient development. 😀😁😂
 ## 👊 Skills
 ### Platforms & Languages 📢
