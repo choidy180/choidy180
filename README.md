@@ -1,7 +1,7 @@
 <a href="https://velog.io/@choidy180"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/choidy180@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 <a href="https://www.instagram.com/min_tt00ng"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-!
+
 👋 Hi there! I'm web developer using React and Node.js !!!🚀
 <br/>I comply with web standards, think about user convenience, and pursue reasonable and efficient development. 😀😁😂
 ## 👊 Skill
