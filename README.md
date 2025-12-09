@@ -56,6 +56,6 @@
 
 <div align="center">
     <a href="https://github.com/choidy180">
-        <img src="https://github-readme-stats.vercel.app/api?username=choidy180&show_icons=true&theme=radical&hide_border=true&rank_icon=active&cache_seconds=3600" alt="choidy180's GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=choidy180&show_icons=true&theme=radical&hide_border=true&rank_icon=active&cache_seconds=259200" alt="choidy180's GitHub Stats"/>
     </a>
 </div>
