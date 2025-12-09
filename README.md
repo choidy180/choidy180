@@ -26,7 +26,9 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" alt="AWS"/>
+    
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazonaws&logoColor=white" alt="AWS"/>
+    
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase"/>
     <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white" alt="React Query"/>
     <img src="https://img.shields.io/badge/ReactRouter-CA4245?style=for-the-badge&logo=ReactRouter&logoColor=white" alt="React Router"/>
@@ -36,7 +38,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB"/>
-    </div>
+</div>
 
 ---
 
@@ -47,7 +49,8 @@
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" alt="NestJS"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white" alt="Elasticsearch"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white" alt="Prisma"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white" alt="Prisma"/>
     <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white" alt="Serverless"/>
 </div>
 
@@ -55,6 +58,6 @@
 
 <div align="center">
     <a href="https://github.com/choidy180">
-        <img src="https://github-readme-stats.vercel.app/api?username=choidy180&show_icons=true&theme=radical&hide_border=true&rank_icon=active" alt="choidy180's GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=choidy180&show_icons=true&theme=radical&hide_border=true&rank_icon=active&cache_seconds=3600" alt="choidy180's GitHub Stats"/>
     </a>
 </div>
