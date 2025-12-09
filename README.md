@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 <div align="center">
     <a href="https://velog.io/@choidy180">
         <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt="Velog Blog"/>
