@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&width=full&height=300&section=header&text=Hello&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&width=1200&height=300&section=header&text=Hello&fontSize=90)
 
 <div align="center">
     <a href="https://velog.io/@choidy180">
